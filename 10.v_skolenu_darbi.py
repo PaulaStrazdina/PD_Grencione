@@ -25,5 +25,5 @@
 #12 Plonis Gustavs
 
 #13 Strazdiņa Paula Marta
-
+ print(cos(radians(60)+fmod(15,2)))
 #14 Vanags Renārs
